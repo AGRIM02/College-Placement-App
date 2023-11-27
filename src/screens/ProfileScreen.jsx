@@ -8,7 +8,6 @@ const ProfileScreen = () => {
     const navigation = useNavigation();
   return (
     <View>
-
         <View style={styles.topcontainer}>
         <View style={styles.imgbox}><MaterialCommunityIcons style={styles.icon} name="account" size={50} color='black'/></View>
         <Text style={styles.headtxt}>Agrim Kumar Singh</Text>

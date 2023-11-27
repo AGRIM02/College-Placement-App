@@ -1,8 +1,5 @@
 import React from "react";
 import{View, StyleSheet, SafeAreaView, StatusBar} from 'react-native';
-import CurrentWeather from "./src/screens/CurrentWeather";
-import UpcomingWeather from "./src/screens/UpcomingWeather";
-import City from "./src/screens/City";
 import OTP from "./src/screens/OTP";
 import { PaperProvider } from "react-native-paper";
 import NavigationBar from "./src/components/NavigationBar";
